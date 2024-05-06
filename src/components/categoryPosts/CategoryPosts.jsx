@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./CategoryPosts.module.css";
+import styles from "./categoryPosts.module.css";
 import CardTwo from "../card-two/CardTwo";
 import { getData } from "../getData";
 
